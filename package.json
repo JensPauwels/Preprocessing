@@ -1,0 +1,8 @@
+{
+  "name": "nodeBigData",
+  "version": "1.0.0",
+  "description": "preprocessing data",
+  "main": "app.js",
+  "author": "jens pauwels",
+  "license": "MIT"
+}
