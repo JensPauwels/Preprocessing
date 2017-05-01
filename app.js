@@ -53,7 +53,6 @@ rl.on('line',(row) => {
 });
 
 rl.on('close', () => {
-  console.log(contents.content1);
   fs.writeFile('./files/newData.txt',contents.content1,'utf8', (err) => {
     if (err) console.log(err);
     console.log('thanks for using the service!');

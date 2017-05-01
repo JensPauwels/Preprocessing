@@ -3,7 +3,7 @@ target/
 tmp/
 /coverage
 /build
-/files/*
+
 
 
 *.gz
